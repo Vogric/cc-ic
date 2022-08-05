@@ -1,0 +1,11 @@
+.spinner {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 100vw;
+    height: 90vh;
+    background: #cccccc;
+    padding: 20px;
+  }
