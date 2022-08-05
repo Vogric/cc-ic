@@ -1,6 +1,6 @@
 .wrapper {
     background-color: rgb(0, 39, 112);
-    height: 4vh;
+    min-height: 25px; 
 }
 
 .title {
